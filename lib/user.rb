@@ -1,3 +1,3 @@
-def User
+class User
   
 end
