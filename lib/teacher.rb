@@ -14,6 +14,7 @@ class Teacher < User
   end
 
   def teach
-    
+    index = rand(8)
+    KNOWLEDGE[index]
   end
 end
